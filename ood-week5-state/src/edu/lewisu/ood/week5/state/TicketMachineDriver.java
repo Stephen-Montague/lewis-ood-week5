@@ -7,13 +7,13 @@ package edu.lewisu.ood.week5.state;
  * Week 5 - State
  *
  * Summary:
- *     Demonstrates an State Pattern using a Ticket Machine theme.
+ *     Demonstrates a State Pattern using a Ticket Machine theme.
  *     Slightly mods Gumball Machine-themed code from course textbook -
  *     Head First Design Patterns, by Freeman, et al., available from -
  *     https://www.wickedlysmart.com/head-first-design-patterns/
  *
  * Program Notes:
- *     Uses an State Pattern to operate a ticket machine that
+ *     Uses a State Pattern to operate a ticket machine that
  *     when conditions are correct, prints tickets to destinations,
  *     pseudo-randomly selected from an array of options.
  *
